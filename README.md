@@ -1,9 +1,9 @@
 # Odoo ERP E-Commerce – Online Telescope Store "Ideal Astronomy"
 
-> **Note:** Self-defined academic scenario using mock data. Brand names (Celestron, Orion, ZWO, HAS) are used strictly as sample catalog data for system testing.
+> **Note:** Self-defined scenario using mock data. Brand names (Celestron, Orion, ZWO, HAS) are used strictly as sample catalog data for system testing.
 
 ## Overview
-Functional analysis, workflow modeling, and system configuration of a B2B/B2C optical equipment e-commerce platform built on Odoo 16 Community.
+Functional analysis, workflow modeling, and system configuration of a optical equipment e-commerce platform built on Odoo 16 Community.
 
 ## Deliverables & Artifacts
 | Artifact | File | Description |
