@@ -3,7 +3,7 @@
 ## 1. Storefront Homepage
 ![Homepage](./homepage.png)
 - Highlights partner branding: Celestron, Orion, ZWO Astronomy).
-- Shows customized navigation bar, excess Contact Us button removed (2 Contact Button by default, remove 1).
+- Shows customized navigation bar, excess Contact Us button removed (2 Contact Button by default, removed 1).
 
 ## 2. Product Catalog & Filtering
 ![Catalog](./catalog.png)
