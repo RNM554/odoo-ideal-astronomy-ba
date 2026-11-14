@@ -12,3 +12,11 @@
 ## 3. Odoo Backend (Sales Module)
 ![Backend](./backend.png)
 - Demonstrates Quote to Sales Order workflow, delivery generation, and audit trail in the backend.
+
+## 4. Inventory & Fulfillment (`REQ-08`)
+![Inventory](./inventory.png)
+- Automated Delivery Order (`WH/OUT`) generated from confirmed Sales Orders with real-time stock reservation.
+
+## 5. Sales Analytics & Reporting (`REQ-10`)
+![Reporting](./reporting.png)
+- Built-in graphical reporting dashboard tracking revenue, order volume, and product performance.
