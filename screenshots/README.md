@@ -2,8 +2,8 @@
 
 ## 1. Storefront Homepage
 ![Homepage](./homepage.png)
-- Highlights partner branding: Celestron, Orion, ZWO Astronomy, Hội Thiên văn Hà Nội (HAS).
-- Shows customized navigation bar (redundant Contact Us button removed).
+- Highlights partner branding: Celestron, Orion, ZWO Astronomy).
+- Shows customized navigation bar, excess Contact Us button removed (2 Contact Button by default, remove 1).
 
 ## 2. Product Catalog & Filtering
 ![Catalog](./catalog.png)
